@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Gradient-Descent-Algorithm/static/css/main.8fbce40a.chunk.css",
+    "main.js": "/Gradient-Descent-Algorithm/static/js/main.fdca4074.chunk.js",
+    "main.js.map": "/Gradient-Descent-Algorithm/static/js/main.fdca4074.chunk.js.map",
+    "runtime-main.js": "/Gradient-Descent-Algorithm/static/js/runtime-main.456bfb3d.js",
+    "runtime-main.js.map": "/Gradient-Descent-Algorithm/static/js/runtime-main.456bfb3d.js.map",
+    "static/js/2.bc66686a.chunk.js": "/Gradient-Descent-Algorithm/static/js/2.bc66686a.chunk.js",
+    "static/js/2.bc66686a.chunk.js.map": "/Gradient-Descent-Algorithm/static/js/2.bc66686a.chunk.js.map",
+    "static/js/3.5c511834.chunk.js": "/Gradient-Descent-Algorithm/static/js/3.5c511834.chunk.js",
+    "static/js/3.5c511834.chunk.js.map": "/Gradient-Descent-Algorithm/static/js/3.5c511834.chunk.js.map",
+    "index.html": "/Gradient-Descent-Algorithm/index.html",
+    "static/css/main.8fbce40a.chunk.css.map": "/Gradient-Descent-Algorithm/static/css/main.8fbce40a.chunk.css.map",
+    "static/js/2.bc66686a.chunk.js.LICENSE.txt": "/Gradient-Descent-Algorithm/static/js/2.bc66686a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Gradient-Descent-Algorithm/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.456bfb3d.js",
+    "static/js/2.bc66686a.chunk.js",
+    "static/css/main.8fbce40a.chunk.css",
+    "static/js/main.fdca4074.chunk.js"
+  ]
+}
