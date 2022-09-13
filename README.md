@@ -1,5 +1,6 @@
-*Grdient Descent Algorithm*<br /> 
+# Gradient Descent Algorithm<br /> 
 In Today’s world, Artificial Intelligence is transforming and reaching higher heights. In the process of learning new things, as a human, we make mistakes and try to correct learning from our mistakes. In the same way machines under the supervision of humans try to correct their predictions on a particular task. Gradient Descent Algorithm is the algorithm used to reduce the cost function using the concept of gradients and differential calculus to reach global optimum. This mini-project is developed using Java for code, React JS for logic and Graphical User Interface.
+
 **1.1 INTRODUCTION TO GRADIENT DESCENT ALGORITHM**<br /> 
 Gradient descent is a first-order iterative optimization algorithm for finding a local minimum of a differentiable function. The idea is to take repeated steps in the opposite direction of the gradient (or approximate gradient) of the function at the current point, because this is the direction of steepest descent. Conversely, stepping in the direction of the gradient will lead to a local maximum of that function; the procedure is then known as gradient ascent.
 
