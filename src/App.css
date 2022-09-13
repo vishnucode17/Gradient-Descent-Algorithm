@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#head{
+  text-align: center;
+  padding: 10px 0;
+}
+nav{
+  background:linear-gradient(to bottom, #f0f0f0 0, #e0e0e0 100%);
+  border-bottom: 1px solid #c0c0c0;
+  border-top: 1px solid #c0c0c0;
+  height: 50px;
+  padding: 0;
+  width: 100%;
+}
